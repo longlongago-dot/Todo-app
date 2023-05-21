@@ -4,6 +4,8 @@
 TODOアプリ.
 
 使用言語: Javascript(React)
+React使用技術: setState,親子間での情報の受け渡し
+
 CSSフレームワーク: Tailwind CSS
 
 追加で使用しているnodeパッケージ:
